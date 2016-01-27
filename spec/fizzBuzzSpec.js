@@ -2,7 +2,6 @@ describe('Fizzbuzz', function() {
 	var fizzbuzz;
 	beforeEach(function() {
 		fizzbuzz = new FizzBuzz();
-
 	});
 
 	describe('knows when a number is', function() {

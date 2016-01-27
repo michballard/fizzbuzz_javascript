@@ -1,5 +1,5 @@
-FizzBuzz Javascript
-===================
+FizzBuzz Javascript Tutorial
+============================
 
 Revising Javascript through doing FizzBuzz tutorial.  
 
